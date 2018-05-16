@@ -9,4 +9,5 @@ testimages: 1000 test digits (around 100 from each class), encoded in the same f
 testlabels: ground truth labels for testimages.
 
 With sklearn library, done
+
 With tensorflow ------
