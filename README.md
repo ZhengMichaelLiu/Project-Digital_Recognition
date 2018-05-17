@@ -10,4 +10,17 @@ testlabels: ground truth labels for testimages.
 
 With sklearn library, done
 
+The best parameter combo is:
+
+    Learning Rate: 0.0001
+    
+    Activition function: relu
+    
+    Hidden layer size: (100, 100, 100)
+    
+    Max iteration: 250
+    
+    Accuracy is: 91.7%
+    
+
 With tensorflow ------
